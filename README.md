@@ -52,6 +52,13 @@ A beautiful, feature-rich personal reading progress tracker built with vanilla H
 
 No installation required, no accounts needed, works completely offline!
 
+## Screenshots
+
+<img width="2976" height="1468" alt="Screenshot 2025-08-20 at 10 19 30 AM" src="https://github.com/user-attachments/assets/977ba2de-4026-423c-b54d-c410d7c86f90" />
+
+<img width="2978" height="1454" alt="Screenshot 2025-08-20 at 10 19 36 AM" src="https://github.com/user-attachments/assets/e5843d19-354b-47e7-9972-d61ae3c14e2f" />
+
+
 ## Detailed Usage Guide
 
 ### Adding Books
